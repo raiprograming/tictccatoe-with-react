@@ -1,0 +1,40 @@
+.board{
+    width:317px;
+    height: 240px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: brown;
+}
+.box{
+    margin-left: 4px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    float: left;
+    height: 67px;
+    width: 100px;
+}
+.win{
+    font-size:50px;
+    background-color: brown;
+}
+.windiv{
+    width:fit-content;
+    height: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn{
+    width: 70px;
+    height: 50px;
+    background-color: brown;
+    font-size: large;
+}
+
+
+
+
+
+
+
+
